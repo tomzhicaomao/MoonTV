@@ -19,6 +19,10 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+    "guangsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
